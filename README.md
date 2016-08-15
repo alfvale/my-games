@@ -1,2 +1,2 @@
 # my-games
-Repo for my simple game projects
+Repo for my simple game projects like football question game,...
